@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "les haricots"
+description              : "An amazing website of my phto albums."
 url                      : "https://skalce0.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "skalce0/skalce0.github.io"
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "light" (default), #   "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                :  "github-light" (default), #"github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "skalce0"
   avatar           :  "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
